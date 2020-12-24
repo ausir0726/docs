@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/nuxt/docs#readme",
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "download": "^5.0.2",
     "front-matter": "^2.1.1",
     "glob": "^7.1.1",
